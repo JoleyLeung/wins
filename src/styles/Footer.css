@@ -1,0 +1,14 @@
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  
+    > .col,
+    > [class*="col-"] {
+      padding-right: 0.3em;
+      padding-left: 0.3em;
+    }
+  }
+
+  .footer {
+    border-top:thin solid #E8E7EA;
+  }
