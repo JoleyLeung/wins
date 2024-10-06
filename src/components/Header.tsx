@@ -2,6 +2,8 @@ import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import "../styles/Header.css";
 const Header = () => {
+  // please turn the links into an array :)
+
   return (
     <header>
       <nav className="navbar">
