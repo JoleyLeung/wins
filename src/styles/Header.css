@@ -1,0 +1,45 @@
+/* .navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding: 1rem 2rem;
+} */
+.navbar ul {
+    list-style-type: none; /* Remove bullet points */
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    display: flex; /* Make list items appear in a row */
+  }
+  
+  .navbar li {
+    margin-right: 20px; /* Add space between the links */
+  }
+  
+  .navbar a {
+    text-decoration: none; /* Remove the underline from links */
+    color: black; /* Adjust the text color */
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+.navbar-links {
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .navbar-links li {
+    margin: 0;
+  }
+  
+  .navbar-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+  }
+  
+  .navbar-links a:hover {
+    text-decoration: underline;
+  }
