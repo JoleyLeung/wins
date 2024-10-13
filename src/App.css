@@ -1,0 +1,39 @@
+
+.smolheader{
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    font-size: 3em;
+  }
+  .mediumheader{
+    font-weight: 700;
+    font-family: "Inter", sans-serif;
+    font-size: 4em;
+    line-height: 1.1em;
+  }
+  .bigheader {
+    line-height: 1.1em;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 6em;
+  }
+  
+  .button{
+    border: none;
+    background-color: white;
+    color: #9747FF;
+    border: 2px solid #9747FF;
+    border-radius:2em;
+    padding: 1em 2em;
+    text-align: center;
+    display: inline-block;
+    font-family: "Inter", sans-serif;
+    font-size: 1em;
+    transition-duration: 0.4s;
+    margin: 1em;
+  }
+  
+  .button:hover{
+    background-color: #9747FF;
+    color: white;
+  }
