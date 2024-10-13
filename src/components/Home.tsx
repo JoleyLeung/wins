@@ -14,7 +14,7 @@ const Home = () => {
       </div>
       <br></br>
       <br></br>
-      <img src={crown} alt="placeholder" className="crownimg" />
+      <img src={crown} alt="crown" className="crownimg" />
       <div className="title">
         <span className="bigheader">
           We’re Women <br />

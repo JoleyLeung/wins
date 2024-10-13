@@ -15,7 +15,7 @@ const Header = () => {
   return (
     <header>
       <nav className="navbar">
-        <ul>
+        <ul className="navbar-links">
           {/* Mapping through navLinks to generate <li> and <Link> elements */}
           {navLinks.map((link, index) => (
             <li key={index}>
