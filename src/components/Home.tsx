@@ -4,7 +4,15 @@ import "../App.css";
 import winsimg from "../assets/winsimg.png";
 import crown from "../assets/crown.png";
 import divider from "../assets/divider.png";
+import { useNavigate } from "react-router-dom";
+
 const Home = () => {
+  const navigate = useNavigate();
+
+  const goToAboutUs = () => {
+    navigate("/aboutus");
+  };
+
   return (
     <div>
       <br></br>
@@ -51,7 +59,9 @@ const Home = () => {
         </div>
         <div></div>
       </div>
-      <button className="button learnmore">LEARN MORE</button>
+      <button className="button learnmore" onClick={goToAboutUs}>
+        LEARN MORE
+      </button>
       <div className="dividerdiv">
         <img src={divider} alt="page divider" className="divider" />
       </div>
