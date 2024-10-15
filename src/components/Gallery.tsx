@@ -3,7 +3,7 @@ import "../styles/Gallery.css";
 
 function Gallery() {
   return (
-    <div className="gallery">
+    <div className="gallerya">
       <p>gallery placeholder =＾● ⋏ ●＾=</p>
     </div>
   );

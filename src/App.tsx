@@ -14,17 +14,23 @@ function App() {
   return (
     <Router>
       <div>
-        <Header />
-        <main>
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/aboutus" element={<AboutUs />} />
-            <Route path="/joinus" element={<JoinUs />} />
-            <Route path="/events" element={<Events />} />
-            <Route path="/gallery" element={<Gallery />} />
-          </Routes>
-        </main>
-        <Footer />
+        <div>
+          <Header />
+        </div>
+        <div>
+          <main>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/aboutus" element={<AboutUs />} />
+              <Route path="/joinus" element={<JoinUs />} />
+              <Route path="/events" element={<Events />} />
+              <Route path="/gallery" element={<Gallery />} />
+            </Routes>
+          </main>
+        </div>
+        <div>
+          <Footer />
+        </div>
       </div>
     </Router>
   );
