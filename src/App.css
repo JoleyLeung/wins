@@ -17,7 +17,17 @@
     font-weight: 700;
     font-size: 6em;
   }
-  
+
+  .text{
+    font-family: "Inter", sans-serif;
+  font-size: 1.5em;
+  }
+  .marginleft{
+    margin-left:3em;
+  }
+  .marginright{
+    margin-right:3em;
+  }
   .button{
     border: none;
     background-color: white;

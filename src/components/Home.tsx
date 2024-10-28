@@ -23,7 +23,7 @@ const Home = () => {
       <br></br>
       <br></br>
       <img src={crown} alt="crown" className="crownimg" />
-      <div className="title">
+      <div className="hometitle">
         <span className="bigheader">
           We’re Women <br />
           in Science (WINS) <br />
