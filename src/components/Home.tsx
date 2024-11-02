@@ -38,7 +38,7 @@ const Home = () => {
       <div className="flex-container">
         <div></div>
         <div>
-          <ul className="purposelist">
+          <ul className="text">
             <li>
               To unite women working in, studying and interested in
               science-related disciplines.
@@ -65,7 +65,7 @@ const Home = () => {
       <div className="dividerdiv">
         <img src={divider} alt="page divider" className="divider" />
       </div>
-      <div className="d-flex justify-content-center">
+      <div className="aligncenter">
         <span className="smolheader">Events We Held</span>
       </div>
     </div>

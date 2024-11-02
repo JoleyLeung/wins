@@ -10,11 +10,13 @@ function AboutUs() {
   };
   return (
     <div>
-      <div className="abouttitle">
+      <br></br>
+      <br></br>
+      <div className="aligncenter">
         <span className="bigheader">About Us:</span>
       </div>
       <br></br>
-      <div className="marginleft marginright">
+      <div className="abouttext">
         <span className="text">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -25,9 +27,13 @@ function AboutUs() {
           culpa qui officia deserunt mollit anim id est laborum.
         </span>
       </div>
-      <button className="button marginleft" onClick={goToJoinUs}>
+      <br></br>
+      <button className="button aboutbutton" onClick={goToJoinUs}>
         JOIN US
       </button>
+      <div className="aligncenter">
+        <span className="bigheader">Meet the Team!</span>
+      </div>
     </div>
   );
 }
