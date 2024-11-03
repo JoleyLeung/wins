@@ -18,7 +18,7 @@ function Events() {
         <div className="line">
           <div className="flex-event">
             <div>
-              <img src={`/event_album/${event.eventpicture}`} />
+              <img src={`event_album/${event.eventpicture}`} />
             </div>
             <div className="marginleft">
               <div className=" smolheader "> {event.eventname}</div>
