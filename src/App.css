@@ -56,3 +56,8 @@
     max-height: 100vh;
     margin: auto;
   }
+
+  .dividerdiv{
+    display: grid;
+    height: 100%;
+  }

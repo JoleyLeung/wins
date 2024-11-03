@@ -38,7 +38,7 @@ const Home = () => {
       <div className="flex-container">
         <div></div>
         <div>
-          <ul className="text">
+          <ul className="text marginright">
             <li>
               To unite women working in, studying and interested in
               science-related disciplines.
