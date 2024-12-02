@@ -1,0 +1,26 @@
+[
+    {
+        "picname": "She Speaks",
+        "pic": "src/assets/gallery_images/image1.png"
+    },
+    {
+        "picname": "Movie Night",
+        "pic": "src/assets/gallery_images/image2.png"
+    },
+    {
+        "picname": "Purple Duck",
+        "pic": "src/assets/gallery_images/Rectangle57.png"
+    },
+    {
+        "picname": "Purple Duck",
+        "pic": "src/assets/gallery_images/imagecopy.png"
+    },
+    {
+        "picname": "Purple Duck",
+        "pic": "src/assets/gallery_images/imagecopy.png"
+    },
+    {
+        "picname": "Dupe!",
+        "pic": "src/assets/gallery_images/coppy.png"
+    }
+]

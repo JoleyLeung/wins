@@ -1,0 +1,24 @@
+
+
+/* Gallery container with CSS Grid */
+.gallery-container {
+  display: grid;
+  /*number after repeat says how many images per row*/
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  justify-content: center;
+  padding: 16px;
+}
+
+/* Image container styling */
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-container img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
