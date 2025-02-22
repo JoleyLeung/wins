@@ -1,17 +1,27 @@
 [
     {
-        "eventname": "She Speaks",
-        "eventdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec commodo eleifend felis, sit amet ultricies felis ornare eget. Cras a consectetur neque, et ornare mauris. Praesent consequat neque vel tellus feugiat, quis porttitor mi mattis. Praesent faucibus posuere orci sit amet hendrerit. Fusce pellentesque hendrerit turpis vitae volutpat. Integer vel aliquet dui. Aenean scelerisque dignissim purus ut dapibus. Phasellus egestas mollis tristique. Vestibulum in fermentum leo. Suspendisse consequat mauris quis augue faucibus, sed tristique risus elementum. Nullam at mi placerat, pharetra justo quis, ornare tortor. Aenean maximus urna eu mollis pellentesque. Nam eu volutpat lorem, a dapibus velit. Proin quis lorem eu dolor ultricies finibus. Fusce luctus efficitur tincidunt. Quisque luctus, tortor ac efficitur porttitor, urna augue aliquam ex, sed molestie ex nibh vel enim."
-        ,"eventpicture": "image1.png"
+        "eventname": "WINS Seminar: Olga Andreeva",
+        "eventdescription": "Machine learning is a powerful mechanism transforming the modern society at large. Unfortunately, there is no set path to follow in becoming a ML engineer/researcher. In this talk, I will discuss my academic and industry experience as a PhD student and share strategies that helped me in doing research, publishing papers and working as a PhD ML intern. <br>Click <a href='https://youtu.be/RSTQWpFwCjE?feature=shared'>here</a> to see the seminar! Click <a href='https://docs.google.com/presentation/d/1qKiJQircw8oCzeIdhurL6dtzqYQpnuyMHWQ1iU7fl68/edit?usp=sharing'>here</a> to see the slides!",
+        "eventpicture": "Screenshot 2025-02-22 140445.png"
+    },
+    {
+        "eventname": "WINS Seminar: Dr. Zhi Cao",
+        "eventdescription": "Women in Science (WINS) club hosted a speaker session on Friday, December 10th 2021. <br> Our invited guest is Dr. Zhi Cao, an alumna of UMass Boston. She is going to share her journey to becoming a scientist in a leading Tech company. <br> Dr. Zhi Cao is a Data & Applied Scientist and Software Engineer at Microsoft. She received her PhD in Computer Science from UMass Boston, where she worked with Prof. Honggang Zhang at Mobile and Pervasive Computing Lab. Her research focuses were Edge Computing and Deep Reinforcement Learning. In her research, she tackled problems related to application placement and resource allocation in mobile Edge Computing. <br>Click <a href='https://youtu.be/qLHme1znkLE?feature=shared'>here</a> to see the seminar! Click <a href='https://drive.google.com/file/d/16NyIr7JJfocxzruAdlpRjuM3BWYKo2Ke/view?usp=sharing'>here</a> to see the slides!",
+        "eventpicture": "hqdefault.jpg"
     },
     {
         "eventname": "Movie Night",
-        "eventdescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse velit arcu, congue non ipsum eget, rutrum vestibulum est. Donec posuere scelerisque luctus. Proin porttitor eu ipsum sed rutrum. Praesent et eleifend nisl. Phasellus sed tellus ornare, finibus massa at, pellentesque urna. Fusce eu libero sed urna tempor semper quis vitae orci. Quisque placerat semper sem ornare porttitor.",
+        "eventdescription": "First official movie night!!",
         "eventpicture": "image2.png"
     },
     {
-        "eventname": "Purple Duck",
-        "eventdescription": "wow its a purple duck",
-        "eventpicture": "Rectangle57.png"
+        "eventname": "HTML workshop",
+        "eventdescription": "Women in Science hosted an HTML workshop on October 27, 2018🤩 <br>It’s open to everyone so if you’re interested in learning how to code or want to learn a new language, come join us!<br>Fun fact 😁: HTML is often used to build a website!",
+        "eventpicture": "43677148_298133327693750_6092289049718327788_n.jpg"
+    },
+    {
+        "eventname": "She Speaks",
+        "eventdescription": "Exciting She</Speaks> series hosted by @shehacksboston! 👩‍💻"
+        ,"eventpicture": "image1.png"
     }
 ]
