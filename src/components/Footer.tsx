@@ -22,9 +22,15 @@ const Footer = () => {
           <span className="text-end">
             Email: wei.ding@umb.edu
             <br />
-            hello :D
-            <br />
             phone number :00
+            <br />
+            Website adapted from{" "}
+            <a href="https://www.figma.com/community/file/1337059051646144807">
+              a template by Harsh Bhattad
+            </a>{" "}
+            - Licensed under{" "}
+            <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+            <br />
           </span>
         </div>
       </div>
