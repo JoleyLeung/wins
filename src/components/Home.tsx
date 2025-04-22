@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Home.css";
 import "../App.css";
-import winsimg from "../assets/winsimg.png";
+import womanoncomputer from "../assets/womanoncomputer.png";
 import crown from "../assets/crown.png";
 import divider from "../assets/divider.png";
 import { useNavigate } from "react-router-dom";
@@ -55,7 +55,11 @@ const Home = () => {
           </ul>
         </div>
         <div>
-          <img src={winsimg} alt="placeholder" className="purposeimg" />
+          <img
+            src={womanoncomputer}
+            alt="a woman on a computer"
+            className="purposeimg"
+          />
         </div>
         <div></div>
       </div>
