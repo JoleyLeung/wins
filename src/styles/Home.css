@@ -8,6 +8,43 @@
   width:7em;
   z-index:1;
 }
+.socials{
+  max-width: 6em;
+  height: auto;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+}
+ .imageBox {
+      position: relative;
+      float: left;
+    }
+
+    .imageBox .hoverImg {
+      position: absolute;
+      left: 0;
+      top: 0;
+      display: none;
+    }
+
+    .imageBox:hover .hoverImg {
+      display: block;
+    }
+    .imageBox:hover .imageInn {
+      display: block;
+      opacity:0;
+    }
+
+  
+.youtube{
+
+}
+.instagram{
+
+}
+.bothsocials{
+   display: flex;
+  justify-content: center;
+}
 .hometitle{
   margin-left: 6em;
   margin-right: 9.375em;

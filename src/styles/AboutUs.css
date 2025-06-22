@@ -5,3 +5,12 @@
 .aboutbutton{
   margin-left: 6em;
 }
+.winsgroupphoto{
+    width:100%;
+    height: 100%;
+}
+.winsphotodescription{
+    text-align: center;
+    margin-left: 1em;
+    margin-right: 1em;
+}

@@ -4,6 +4,10 @@ import "../App.css";
 import womanoncomputer from "../assets/womanoncomputer.png";
 import crown from "../assets/crown.png";
 import divider from "../assets/divider2.png";
+import instagram from "../assets/InstagramPurple.png";
+import youtube from "../assets/YoutubePurple.png";
+import instagramclicked from "../assets/InstagramPClicked.png";
+import youtubeclicked from "../assets/YoutubeClicked.png";
 import { useNavigate } from "react-router-dom";
 
 const Home = () => {
@@ -31,8 +35,30 @@ const Home = () => {
         </span>
       </div>
       <br></br>
-      <br></br>
+      <div className="bothsocials">
+        <div className="imageBox">
+          <div className="youtube imageInn">
+            <a href="https://www.youtube.com/@womeninscienceclubatumassb2697">
+              <img src={youtube} alt="youtube" className="socials unclicked" />
+            </a>
+          </div>
+          <div className="hoverImg">
+            <a href="https://www.youtube.com/@womeninscienceclubatumassb2697">
+              <img
+                src={youtubeclicked}
+                alt="youtube"
+                className="socials clicked"
+              />
+            </a>
+          </div>
+        </div>
 
+        <a href="https://www.instagram.com/umbwins/">
+          <img src={instagram} alt="instagram" className="socials" />
+        </a>
+      </div>
+
+      <br></br>
       <div className="flex-container">
         <div></div>
         <div>

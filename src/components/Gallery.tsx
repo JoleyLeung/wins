@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "../styles/Gallery.css";
 import "../App.css";
-import galleryImages from "../../src/assets/gallery_images/Gallery.json";
+import galleryImages from "../../public/gallery_images/Gallery.json";
 
 type Image = {
   picname: string;

@@ -22,7 +22,7 @@ const Footer = () => {
           <span className="text-end">
             Email: <a href="mailto:wei.ding@umb.edu">wei.ding@umb.edu</a>
             <br />
-            phone number: 617-287-6428
+            Phone: 617-287-6428
           </span>
         </div>
       </div>
