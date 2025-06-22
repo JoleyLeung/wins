@@ -35,5 +35,29 @@
         "eventname": "Health in Action",
         "eventdescription": "The purpose of the event is to promote physical activities and artistic styles amongst students in STEM majors. Participants will learn physical routines ranging from stretching techniques to simple dances. This is a great opportunity to learn effective techniques for a successful health-work balance!"
         ,"eventpicture": "26158479_2018300341777785_3079939348817248256_n.jpg"
+    },{
+        "eventname": "Big Data Driven, Dynamic, and Smarter Urban Transportation Systems",
+        "eventdescription": "Urban traffic gridlock is a familiar scene. With the ubiquitous availability of location enabled mobile devices and wireless communication, the time is ripe for a big data driven, dynamic, and smarter urban transportation system. In such a system, vehicles, users, and infrastructures interact with each other and are informed in real-time. They collaborate to avoid Matthew Effect; form seamless traffic flow; allow alternative and convenient means of transportation; and enable realtime ridesharing. In this talk, we present our efforts towards realizing such a system.  Specifically, we describe our efforts in analyzing taxicab datasets to reduce cruising and live mileage ratio of taxicabs, identifying alternative transport models, and building a large scale real-time ridesharing system."
+        ,"eventpicture": "Screenshot 2025-06-21 223713.png"
+    },{
+        "eventname": "Machine Learning for Predictive Maintenance By Dr. Yan Zhang",
+        "eventdescription": "In this talk, a cloud based predictive maintenance solution is demoed including real-time machine condition monitoring, and batch prediction. By showing a procedure of data input, data preprocessing, data labeling and feature engineering to prepare the training/testing data, the speaker will present how to build and operationalize the predictive model by using Azure Machine Learning Studio to deploy it as a web service."
+        ,"eventpicture": "Screenshot 2025-06-21 224730.png"
+    },{
+        "eventname": "Getting Hired: The Secrets Companies Don’t Tell You By Elizabeth Kelton",
+        "eventdescription": "Koru, a leading company expert in early–stage professional development, will be hosting a workshop where you can learn about:<br>How to be a leader with impact on your first job<br>How to integrate with team dynamics<br>How to harness your social style to climb corporate ladder<br>Finding direction and landing a job you love"
+        ,"eventpicture": "Screenshot 2025-06-21 230023.png"
+    },{
+        "eventname": "HOW TO LEAD A BALANCED LIFE, PERSPECTIVE FROM SUCCESSFUL WOMEN",
+        "eventdescription": "Join us for an inspiring panel discussion where our 3 guests share their success stories and tips on how to have a balanced career/studies, family and personal life. We are also excited to have our Dean Andrew Grosovsky of the College of Science and Math to attend the event."
+        ,"eventpicture": "Screenshot 2025-06-21 224327.png"
+    },{
+        "eventname": "Improving Dynamic Resource Allocation in Healthcare Systems By Dr. Jackie Griffin",
+        "eventdescription": "Most healthcare systems can be characterized as dynamic and complex service systems, in which there are often significant interactions and interdependencies between constantly evolving subsystems. Despite this, decisions for the operation of health systems often rely on static decision making policies. An overview of research examining new models for improving dynamic resource allocation in complex systems, including hospital and public health response applications will be presented. These models utilize discrete and stochastic optimization methods in the development of new algorithms for resource allocation. Similar to healthcare systems, the decisions for initiating research collaborations or making career decisions are made in a dynamic and complex environment. The talk will be concluded with a discussion of the career lessons Jackie has learned during the process of and after completing her PhD."
+        ,"eventpicture": "Screenshot 2025-06-21 230545.png"
+    },{
+        "eventname": "BATEC Tech Futures Forum",
+        "eventdescription": "Join your fellow educators from across the state as you discover new and innovative ways to improve IT education and workforce development. This one-day event features a variety of industry speakers from various career areas sharing the impacts, challenges, growth and demands of technology in their businesses through keynotes, panels and hands-on workshops. Throughout the day, you will participate in presentations and workshops that highlight the regional IT landscape, including projected job opportunities as well as the relevant information technologies and services that are driving our local industries. Come be a part of this professional development opportunity!"
+        ,"eventpicture": "Screenshot 2025-06-21 225208.png"
     }
 ]
