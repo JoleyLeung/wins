@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/JoinUs.css";
 import "../App.css";
-import divider from "../assets/divider.png";
+import divider from "../assets/divider2.png";
 
 function JoinUs() {
   return (

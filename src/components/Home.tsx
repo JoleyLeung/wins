@@ -3,7 +3,7 @@ import "../styles/Home.css";
 import "../App.css";
 import womanoncomputer from "../assets/womanoncomputer.png";
 import crown from "../assets/crown.png";
-import divider from "../assets/divider.png";
+import divider from "../assets/divider2.png";
 import { useNavigate } from "react-router-dom";
 
 const Home = () => {
@@ -32,13 +32,14 @@ const Home = () => {
       </div>
       <br></br>
       <br></br>
-      <div className="marginleft">
-        <span className="mediumheader">Our Purpose is...</span>
-      </div>
+
       <div className="flex-container">
         <div></div>
         <div>
-          <ul className="text marginright">
+          <div className="marginleft purposetext">
+            <span className="mediumheader">Our Purpose is...</span>
+          </div>
+          <ul className="text marginright marginleft">
             <li>
               To unite women working in, studying and interested in
               science-related disciplines.
@@ -53,6 +54,9 @@ const Home = () => {
               science-related fields both in the academic and industrial worlds.
             </li>
           </ul>
+          <button className="button learnmore" onClick={goToAboutUs}>
+            LEARN MORE
+          </button>
         </div>
         <div>
           <img
@@ -63,9 +67,7 @@ const Home = () => {
         </div>
         <div></div>
       </div>
-      <button className="button learnmore" onClick={goToAboutUs}>
-        LEARN MORE
-      </button>
+
       <div className="dividerdiv">
         <img src={divider} alt="page divider" className="divider" />
       </div>

@@ -15,10 +15,10 @@ function Events() {
       {EventsImages.map((event, index) => (
         <div className="line">
           <div className="flex-event">
-            <div>
-              <img width="500px" src={`event_album/${event.eventpicture}`} />
+            <div className="marginleft marginright">
+              <img width="400px" src={`event_album/${event.eventpicture}`} />
             </div>
-            <div className="marginleft">
+            <div>
               <div className=" smolheader "> {event.eventname}</div>
               <div
                 className="text"
