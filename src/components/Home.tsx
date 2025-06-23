@@ -8,6 +8,7 @@ import instagram from "../assets/InstagramPurple.png";
 import youtube from "../assets/YoutubePurple.png";
 import instagramclicked from "../assets/InstagramPClicked.png";
 import youtubeclicked from "../assets/YoutubeClicked.png";
+import EventCarousel from "./EventCarousel";
 import { useNavigate } from "react-router-dom";
 
 const Home = () => {
@@ -99,6 +100,9 @@ const Home = () => {
       </div>
       <div className="aligncenter">
         <span className="smolheader">Events We Held</span>
+      </div>
+      <div>
+        <EventCarousel />
       </div>
     </div>
   );

@@ -61,3 +61,7 @@
     display: grid;
     height: 100%;
   }
+
+  .purple-bg {
+    background-color: #9747FF;
+  }
