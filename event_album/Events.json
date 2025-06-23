@@ -2,127 +2,162 @@
     {
         "eventname": "Research Talk: Biologically Explainable Dynamical Systems Underlying Gene Regulation In Cancer By Itekhab Hossain",
         "eventdescription": "The talk introduces PHOENIX, a scalable and explainable neural ODE framework for modeling gene expression dynamics over time, enhancing disease understanding and therapy response. PHOENIX, augmented with a new method named DASH, outperforms existing tools and can analyze the entire human genome, providing meaningful insights into breast cancer biology.",
+        "eventdate": "March 4, 2024",
         "eventpicture": "2024_03_04_Intekhab Hossain’s Talk_Final.jpg"
     },{
         "eventname": "WINS Seminar: Olga Andreeva",
-        "eventdescription": "Machine learning is a powerful mechanism transforming the modern society at large. Unfortunately, there is no set path to follow in becoming a ML engineer/researcher. In this talk, I will discuss my academic and industry experience as a PhD student and share strategies that helped me in doing research, publishing papers and working as a PhD ML intern. <br>Click <a href='https://youtu.be/RSTQWpFwCjE?feature=shared'>here</a> to see the seminar! Click <a href='https://docs.google.com/presentation/d/1qKiJQircw8oCzeIdhurL6dtzqYQpnuyMHWQ1iU7fl68/edit?usp=sharing'>here</a> to see the slides!",
+        "eventdescription": "Machine learning is a powerful mechanism transforming the modern society at large. Unfortunately, there is no set path to follow in becoming a ML engineer/researcher. In this talk, I will discuss my academic and industry experience as a PhD student and share strategies that helped me in doing research, publishing papers and working as a PhD ML intern. <br>Click <a target=\"_blank\" href='https://youtu.be/RSTQWpFwCjE?feature=shared'>here</a> to see the seminar! Click <a target=\"_blank\" href='https://docs.google.com/presentation/d/1qKiJQircw8oCzeIdhurL6dtzqYQpnuyMHWQ1iU7fl68/edit?usp=sharing'>here</a> to see the slides!",
+        "eventdate": "October 3, 2022",
         "eventpicture": "WINS Seminar Olga Andreeva.png"
     },
     {
         "eventname": "Sharing experience as a PhD student, PhD candidate and PhD intern By Olga Andreeva",
         "eventdescription": "Machine learning is a powerful mechanism transforming the modern society at large. Unfortunately, there is no set path to follow in becoming a ML engineer/researcher. In this talk, I will discuss my academic and industry experience as a PhD student and share strategies that helped me in doing research, publishing papers and working as a PhD ML intern.",
+        "eventdate": "September 30, 2022",
         "eventpicture": "UMass Boston Logo.png"
     },
     {
         "eventname": "WINS Seminar: Dr. Zhi Cao",
-        "eventdescription": "Women in Science (WINS) club hosted a speaker session on Friday, December 10th 2021. <br> Our invited guest is Dr. Zhi Cao, an alumna of UMass Boston. She is going to share her journey to becoming a scientist in a leading Tech company. <br> Dr. Zhi Cao is a Data & Applied Scientist and Software Engineer at Microsoft. She received her PhD in Computer Science from UMass Boston, where she worked with Prof. Honggang Zhang at Mobile and Pervasive Computing Lab. Her research focuses were Edge Computing and Deep Reinforcement Learning. In her research, she tackled problems related to application placement and resource allocation in mobile Edge Computing. <br>Click <a href='https://youtu.be/qLHme1znkLE?feature=shared'>here</a> to see the seminar! Click <a href='https://drive.google.com/file/d/16NyIr7JJfocxzruAdlpRjuM3BWYKo2Ke/view?usp=sharing'>here</a> to see the slides!",
+        "eventdescription": "Women in Science (WINS) club hosted a speaker session on Friday, December 10th 2021. <br> Our invited guest is Dr. Zhi Cao, an alumna of UMass Boston. She is going to share her journey to becoming a scientist in a leading Tech company. <br> Dr. Zhi Cao is a Data & Applied Scientist and Software Engineer at Microsoft. She received her PhD in Computer Science from UMass Boston, where she worked with Prof. Honggang Zhang at Mobile and Pervasive Computing Lab. Her research focuses were Edge Computing and Deep Reinforcement Learning. In her research, she tackled problems related to application placement and resource allocation in mobile Edge Computing. <br>Click <a target=\"_blank\" href='https://youtu.be/qLHme1znkLE?feature=shared'>here</a> to see the seminar! Click <a target=\"_blank\" href='https://drive.google.com/file/d/16NyIr7JJfocxzruAdlpRjuM3BWYKo2Ke/view?usp=sharing'>here</a> to see the slides!",
+        "eventdate": "December 10, 2021",
         "eventpicture": "WINS Seminar Dr. Zhi Cao.jpg"
     },
     {
         "eventname": "Movie Night",
         "eventdescription": "First official movie night!!",
+        "eventdate": "February 14, 2020",
         "eventpicture": "Movie Night.png"
     },
     {
         "eventname": "HTML workshop",
         "eventdescription": "Women in Science hosted an HTML workshop on October 27, 2018🤩 <br>It’s open to everyone so if you’re interested in learning how to code or want to learn a new language, come join us!<br>Fun fact 😁: HTML is often used to build a website!",
+        "eventdate": "October 30, 2018",
         "eventpicture": "HTML workshop.jpg"
     },
     {
         "eventname": "She</Speaks> with Loe Lee",
         "eventdescription": "Exciting She Speaks series hosted by @shehacksboston!",
+        "eventdate": "April 28, 2018",
         "eventpicture": "She Speaks Loe Lee.jpg"
     },{
         "eventname": "She</Speaks> with Kira Tebbe",
-        "eventdescription": "Exciting She Speaks series hosted by @shehacksboston! 👩‍💻"
-        ,"eventpicture": "She Speaks Kira Tebbe.jpg"
+        "eventdescription": "Exciting She Speaks series hosted by @shehacksboston! 👩‍💻",
+        "eventdate": "March 25, 2018",
+        "eventpicture": "She Speaks Kira Tebbe.jpg"
     },{
         "eventname": "Sphero Workshop",
-        "eventdescription": "We're excited to announce events that showcase UMass Boston's commitment to expanding opportunities for underrepresented groups in science and tech! Join the Computer Science department and Women in Science in hosting a @blackgirlscode workshop at UMass Boston!"
-        ,"eventpicture": "Sphero Workshop.jpg"
+        "eventdescription": "We're excited to announce events that showcase UMass Boston's commitment to expanding opportunities for underrepresented groups in science and tech! Join the Computer Science department and Women in Science in hosting a @blackgirlscode workshop at UMass Boston!",
+        "eventdate": "March 10, 2018",
+        "eventpicture": "Sphero Workshop.jpg"
     },{
         "eventname": "Health in Action",
-        "eventdescription": "The purpose of the event is to promote physical activities and artistic styles amongst students in STEM majors. Participants will learn physical routines ranging from stretching techniques to simple dances. This is a great opportunity to learn effective techniques for a successful health-work balance!"
-        ,"eventpicture": "Health in Action.jpg"
+        "eventdescription": "The purpose of the event is to promote physical activities and artistic styles amongst students in STEM majors. Participants will learn physical routines ranging from stretching techniques to simple dances. This is a great opportunity to learn effective techniques for a successful health-work balance!",
+        "eventdate": "January 17, 2018",
+        "eventpicture": "Health in Action.jpg"
     },{
         "eventname": "Science Education Colloquium: Large Moons and Dwarf Plaents With Dr. Nancy Grace Roman (\"Mother of Hubble Telescope\")",
-        "eventdescription": "Two of the moons in the solar system are larger than Mercury and would be considered planets if they orbited the sun instead of planets. Four moons convinced Galileo of the likelihood of the Copernican view of the solar system. One dwarf moon lies in the asteroid belt between Mars and Jupiter. Pluto is the largest of several dwarf planets in the Kuiper belt - a region similar to the asteroid belt but lying beyond Neptune."
-        ,"eventpicture": "Dr. Nancy Grace Roman.png"
+        "eventdescription": "Two of the moons in the solar system are larger than Mercury and would be considered planets if they orbited the sun instead of planets. Four moons convinced Galileo of the likelihood of the Copernican view of the solar system. One dwarf moon lies in the asteroid belt between Mars and Jupiter. Pluto is the largest of several dwarf planets in the Kuiper belt - a region similar to the asteroid belt but lying beyond Neptune.",
+        "eventdate": "November 8, 2018",
+        "eventpicture": "Dr. Nancy Grace Roman.png"
     },{
         "eventname": "Science Cafe",
-        "eventdescription": "A Discussion on Women in Science with Liz Magee, Emily Conklin, and Colleen Cavanaugh"
-        ,"eventpicture": "2017_11_07_Science_Cafe_WIS copy.png"
+        "eventdescription": "A Discussion on Women in Science with Liz Magee, Emily Conklin, and Colleen Cavanaugh",
+        "eventdate": "November 7, 2017",
+        "eventpicture": "2017_11_07_Science_Cafe_WIS copy.png"
     },{
         "eventname": "Panel Discussion: How to prepare job hunting: Academia VS. Industry",
-        "eventdescription": "Join us for an inspiring panel discussion where our 2 guests share their success stories and tips on how to prepare job hunting in academia and the industry area  by Dr. Ying Mao - graduate student from WES Lab and Dr. Dawei Wang - graduate student from KDLab."
-        ,"eventpicture": "UMass Boston Logo.png"
+        "eventdescription": "Join us for an inspiring panel discussion where our 2 guests share their success stories and tips on how to prepare job hunting in academia and the industry area  by Dr. Ying Mao - graduate student from WES Lab and Dr. Dawei Wang - graduate student from KDLab.",
+        "eventdate": "April 20, 2016",
+        "eventpicture": "UMass Boston Logo.png"
     },{
-        "eventname": "Student Recruitment By Dr. Alyssa Scott Vice President of Healthcare Informatics at Harvard Pilgrim Health Care",
-        "eventdescription": "A recruitment seminar to discuss about the job openings at Harvard Pilgrim Health Care including summer internships in Summer 2016 and other permanent positions on Data Analytics and Health Data Analyst. In addition to building a recruitment pipeline, Dr. Alyssa Scott is interested in sitting on the advisory board and sharing some of her initial thoughts for the students in Analytics program that is being developed at UMass Boston. The seminar will include the presentation and on-site interview."
-        ,"eventpicture": "Student Recruitment.png"
+        "eventname": "Student Recruitment By Dr. Alyssa Scott - Vice President of Healthcare Informatics at Harvard Pilgrim Health Care",
+        "eventdescription": "A recruitment seminar to discuss about the job openings at Harvard Pilgrim Health Care including summer internships in Summer 2016 and other permanent positions on Data Analytics and Health Data Analyst. In addition to building a recruitment pipeline, Dr. Alyssa Scott is interested in sitting on the advisory board and sharing some of her initial thoughts for the students in Analytics program that is being developed at UMass Boston. The seminar will include the presentation and on-site interview.",
+        "eventdate": "March 22, 2016",
+        "eventpicture": "Student Recruitment.png"
     },{
         "eventname": "Big Data Driven, Dynamic, and Smarter Urban Transportation Systems",
-        "eventdescription": "Urban traffic gridlock is a familiar scene. With the ubiquitous availability of location enabled mobile devices and wireless communication, the time is ripe for a big data driven, dynamic, and smarter urban transportation system. In such a system, vehicles, users, and infrastructures interact with each other and are informed in real-time. They collaborate to avoid Matthew Effect; form seamless traffic flow; allow alternative and convenient means of transportation; and enable realtime ridesharing. In this talk, we present our efforts towards realizing such a system.  Specifically, we describe our efforts in analyzing taxicab datasets to reduce cruising and live mileage ratio of taxicabs, identifying alternative transport models, and building a large scale real-time ridesharing system."
-        ,"eventpicture": "Smarter Urban Transportation Systems.png"
+        "eventdescription": "Urban traffic gridlock is a familiar scene. With the ubiquitous availability of location enabled mobile devices and wireless communication, the time is ripe for a big data driven, dynamic, and smarter urban transportation system. In such a system, vehicles, users, and infrastructures interact with each other and are informed in real-time. They collaborate to avoid Matthew Effect; form seamless traffic flow; allow alternative and convenient means of transportation; and enable realtime ridesharing. In this talk, we present our efforts towards realizing such a system.  Specifically, we describe our efforts in analyzing taxicab datasets to reduce cruising and live mileage ratio of taxicabs, identifying alternative transport models, and building a large scale real-time ridesharing system.",
+        "eventdate": "March 7, 2016",
+        "eventpicture": "Smarter Urban Transportation Systems.png"
     },{
         "eventname": "Machine Learning for Predictive Maintenance By Dr. Yan Zhang",
-        "eventdescription": "In this talk, a cloud based predictive maintenance solution is demoed including real-time machine condition monitoring, and batch prediction. By showing a procedure of data input, data preprocessing, data labeling and feature engineering to prepare the training/testing data, the speaker will present how to build and operationalize the predictive model by using Azure Machine Learning Studio to deploy it as a web service."
-        ,"eventpicture": "Machine Learning.png"
+        "eventdescription": "In this talk, a cloud based predictive maintenance solution is demoed including real-time machine condition monitoring, and batch prediction. By showing a procedure of data input, data preprocessing, data labeling and feature engineering to prepare the training/testing data, the speaker will present how to build and operationalize the predictive model by using Azure Machine Learning Studio to deploy it as a web service.",
+        "eventdate": "November 9, 2015",
+        "eventpicture": "Machine Learning.png"
     },{
         "eventname": "Exploratory Data Analysis, Clustering, and Subtype Discovery By Dr. Jennifer G. Dy",
-        "eventdescription": "In many applications, data is often complex, high-dimensional and multifaceted, where multiple possible interpretations are inherent in the data. In this talk, solutions for each of these challenges are provided. Moreover, the speaker’s work on disease subtyping is presented and she demonstrates how this challenging complex domain led to innovations in machine learning."
-        ,"eventpicture": "Exploratory Data Analysis, Clustering, and Subtype Discovery.png"
+        "eventdescription": "In many applications, data is often complex, high-dimensional and multifaceted, where multiple possible interpretations are inherent in the data. In this talk, solutions for each of these challenges are provided. Moreover, the speaker’s work on disease subtyping is presented and she demonstrates how this challenging complex domain led to innovations in machine learning.",
+        "eventdate": "November 2, 2015",
+        "eventpicture": "Exploratory Data Analysis, Clustering, and Subtype Discovery.png"
     },{
         "eventname": "Getting Hired: The Secrets Companies Don’t Tell You By Elizabeth Kelton",
-        "eventdescription": "Koru, a leading company expert in early–stage professional development, will be hosting a workshop where you can learn about:<br>How to be a leader with impact on your first job<br>How to integrate with team dynamics<br>How to harness your social style to climb corporate ladder<br>Finding direction and landing a job you love"
-        ,"eventpicture": "Getting Hired.png"
+        "eventdescription": "Koru, a leading company expert in early–stage professional development, will be hosting a workshop where you can learn about:<br>How to be a leader with impact on your first job<br>How to integrate with team dynamics<br>How to harness your social style to climb corporate ladder<br>Finding direction and landing a job you love",
+        "eventdate": "May 6, 2015",
+        "eventpicture": "Getting Hired.png"
     },{
         "eventname": "HOW TO LEAD A BALANCED LIFE, PERSPECTIVE FROM SUCCESSFUL WOMEN",
-        "eventdescription": "Join us for an inspiring panel discussion where our 3 guests share their success stories and tips on how to have a balanced career/studies, family and personal life. We are also excited to have our Dean Andrew Grosovsky of the College of Science and Math to attend the event."
-        ,"eventpicture": "balanced woman.png"
+        "eventdescription": "Join us for an inspiring panel discussion where our 3 guests share their success stories and tips on how to have a balanced career/studies, family and personal life. We are also excited to have our Dean Andrew Grosovsky of the College of Science and Math to attend the event.",
+        "eventdate": "March 26, 2015",
+        "eventpicture": "balanced woman.png"
     },{
         "eventname": "Resume, Cover Letter and Job Searching By Amanda Stupakevich: Career Specialist for College of Science and Mathematics",
-        "eventdescription": "Join us for this exciting workshop and learn about:<br>Your written 1st impression, Resume and cover letter writing 101: How to organize and format a cover letter and resume that is tailored to a specific job position, How to write detailed bullet points for current/past job experiences using the Action, Verb + Project + Result formula<br>On the hunt! The job search: Where and How to Look: How to identify general and field-specific job search engines, How to understand My Career Online: UMB's online job posting site for students and alumni for full-time, part-time, and work-study jobs, How to keep your job search organized and effective"
-        ,"eventpicture": "resume cover letter.png"
-    },{
-        "eventname": "Panel Discussion with UMB New Faculties",
-        "eventdescription": "Join us for an exciting session where 4 of UMB new hires will share their journey to and through Grad school and finally to here at UMB. We have invited:<br>K.C. Kerby-Patel, Assistant Professor of Engineering<br>Craig Yu, Assistant Professor of Computer Science<br>Todd Riley, Assistant Professor of Biology <br>Suha Ballout, Assistant Professor of Nursing and Health Sciences<br>The session will start by speakers’ short presentations followed by students Questions/Answers."
-        ,"eventpicture": "UMB New Faculties.png"
+        "eventdescription": "Join us for this exciting workshop and learn about:<br>Your written 1st impression, Resume and cover letter writing 101: How to organize and format a cover letter and resume that is tailored to a specific job position, How to write detailed bullet points for current/past job experiences using the Action, Verb + Project + Result formula<br>On the hunt! The job search: Where and How to Look: How to identify general and field-specific job search engines, How to understand My Career Online: UMB's online job posting site for students and alumni for full-time, part-time, and work-study jobs, How to keep your job search organized and effective",
+        "eventdate": "March 10, 2015",
+        "eventpicture": "resume cover letter.png"
     },{
         "eventname": "IBM Field Trip!",
-        "eventdescription": "Join us for a fun visit to IBM research labs and learn about their exciting and innovative projects and internship/carrer opportunities. All Science (CS, math, physics, EEOS, biology, and chemistry) and engineering majors are welcome!"
-        ,"eventpicture": "IBM.jpg"
+        "eventdescription": "Join us for a fun visit to IBM research labs and learn about their exciting and innovative projects and internship/carrer opportunities. All Science (CS, math, physics, EEOS, biology, and chemistry) and engineering majors are welcome!",
+        "eventdate": "December 5, 2014",
+        "eventpicture": "IBM.jpg"
+    },{
+        "eventname": "Panel Discussion with UMB New Faculties",
+        "eventdescription": "Join us for an exciting session where 4 of UMB new hires will share their journey to and through Grad school and finally to here at UMB. We have invited:<br>K.C. Kerby-Patel, Assistant Professor of Engineering<br>Craig Yu, Assistant Professor of Computer Science<br>Todd Riley, Assistant Professor of Biology <br>Suha Ballout, Assistant Professor of Nursing and Health Sciences<br>The session will start by speakers’ short presentations followed by students Questions/Answers.",
+        "eventdate": "December 2, 2014",
+        "eventpicture": "UMB New Faculties.png"
     },{
         "eventname": "Improving Dynamic Resource Allocation in Healthcare Systems By Dr. Jackie Griffin",
-        "eventdescription": "Most healthcare systems can be characterized as dynamic and complex service systems, in which there are often significant interactions and interdependencies between constantly evolving subsystems. Despite this, decisions for the operation of health systems often rely on static decision making policies. An overview of research examining new models for improving dynamic resource allocation in complex systems, including hospital and public health response applications will be presented. These models utilize discrete and stochastic optimization methods in the development of new algorithms for resource allocation. Similar to healthcare systems, the decisions for initiating research collaborations or making career decisions are made in a dynamic and complex environment. The talk will be concluded with a discussion of the career lessons Jackie has learned during the process of and after completing her PhD."
-        ,"eventpicture": "improving healthcare.png"
+        "eventdescription": "Most healthcare systems can be characterized as dynamic and complex service systems, in which there are often significant interactions and interdependencies between constantly evolving subsystems. Despite this, decisions for the operation of health systems often rely on static decision making policies. An overview of research examining new models for improving dynamic resource allocation in complex systems, including hospital and public health response applications will be presented. These models utilize discrete and stochastic optimization methods in the development of new algorithms for resource allocation. Similar to healthcare systems, the decisions for initiating research collaborations or making career decisions are made in a dynamic and complex environment. The talk will be concluded with a discussion of the career lessons Jackie has learned during the process of and after completing her PhD.",
+        "eventdate": "November 18, 2014",
+        "eventpicture": "improving healthcare.png"
     },{
         "eventname": "Towards Wireless Health By Dr. Honggang Wang",
-        "eventdescription": "Wireless body area networks (WBANs) are capable of providing an opportunity to address the issues for rapidly increasing mobile health (mHealth) applications. However, it is challenging to improve the performance of WBANs in a mobile social environment due to mobility, inter-channel interference, security concerns and dynamic social interactions. In this talk, new algorithms and theoretical models used to build WBANs that can bridge the WBANs and social networks in the mobile sensing environment will be introduced and security approaches for WBANs that can support reliably and securely data transmissions will be reviewed. Potential applications of WBANs such as infant monitoring and epidemic predictions will be presented."
-        ,"eventpicture": "Towards Wireless Health.png"
+        "eventdescription": "Wireless body area networks (WBANs) are capable of providing an opportunity to address the issues for rapidly increasing mobile health (mHealth) applications. However, it is challenging to improve the performance of WBANs in a mobile social environment due to mobility, inter-channel interference, security concerns and dynamic social interactions. In this talk, new algorithms and theoretical models used to build WBANs that can bridge the WBANs and social networks in the mobile sensing environment will be introduced and security approaches for WBANs that can support reliably and securely data transmissions will be reviewed. Potential applications of WBANs such as infant monitoring and epidemic predictions will be presented.",
+        "eventdate": "November 13, 2014",
+        "eventpicture": "Towards Wireless Health.png"
     },{
         "eventname": "Redesigning Healthcare Systems for Improved Access to Primary Care in Underserved Populations By Ayten Turkcan",
-        "eventdescription": "People experience barriers to primary care in many forms including gaining entry into the health care system, gaining access to sites providing health care services, and locating providers who understand the culture, language, transportation challenges, and preferences of the surrounding community. Community Health Clinics provide a safety net for the underserved populations. Despite recent changes in policy, ongoing work to establish Patient Centered Medical Homes and investment in health information technology, widespread problems with access to care still exist. In this study a mixed methods approach is used as well as simulation modeling to model the care delivery system and test alternatives to identify the impact of strategies before actual implementation."
-        ,"eventpicture": "Redesigning Healthcare Systems.png"
+        "eventdescription": "People experience barriers to primary care in many forms including gaining entry into the health care system, gaining access to sites providing health care services, and locating providers who understand the culture, language, transportation challenges, and preferences of the surrounding community. Community Health Clinics provide a safety net for the underserved populations. Despite recent changes in policy, ongoing work to establish Patient Centered Medical Homes and investment in health information technology, widespread problems with access to care still exist. In this study a mixed methods approach is used as well as simulation modeling to model the care delivery system and test alternatives to identify the impact of strategies before actual implementation.",
+        "eventdate": "October 27, 2014",
+        "eventpicture": "Redesigning Healthcare Systems.png"
     },{
         "eventname": "The Art of Networking",
-        "eventdescription": "How to Meet the People You Need to Know By Amanda W. Stupakevich - Career Specialist, College of Science and Mathematics Office of Career Services and Internships<br>Come and learn:<br>The importance of both in-person and online networking<br>The way social media influences one’s personal brand<br>To identify people who are part of one’s “network” and strategize ways to connect in order to gain information about certain job fields and positions via various tools"
-        ,"eventpicture": "The art of networking.png"
+        "eventdescription": "How to Meet the People You Need to Know By Amanda W. Stupakevich - Career Specialist, College of Science and Mathematics Office of Career Services and Internships<br>Come and learn:<br>The importance of both in-person and online networking<br>The way social media influences one’s personal brand<br>To identify people who are part of one’s “network” and strategize ways to connect in order to gain information about certain job fields and positions via various tools",
+        "eventdate": "May 7, 2014",
+        "eventpicture": "The art of networking.png"
     },{
         "eventname": "Tech Savvy Computing Camp",
-        "eventdescription": "Camp Instructors: Joseph Cohen and Weiwei Gong<br>Faculty Adviser: Wei Ding and Deborah Boisvert<br>Students will participate in games on two sorting algorithms, bubble sort and merge sort, to learn the concept of algorithm design.<br>Students will be taught introductory programming concepts.<br>Students will learn how to express algorithm designs in pseudo-code.<br>Students will be paired up to learn how to program images, animations, and interactions.<br>Students will be taught fundamentals of computer programming with a visual context.<br>Students will be inspired from Computer Scientists: Invited speakers from UMass Lowell, Google K-12 Education Outreach Team, etc.<br>Students will attend a algorithm design contest, using the methods, algorithms and pseudo-code rules they learned in the morning<br>Students will be paired up for a programming contest, using the animation programming skills they have learned in the morning sessions."
-        ,"eventpicture": "Tech Savvy Computing Camp.jpg"
+        "eventdescription": "Camp Instructors: Joseph Cohen and Weiwei Gong<br>Faculty Adviser: Wei Ding and Deborah Boisvert<br>Students will participate in games on two sorting algorithms, bubble sort and merge sort, to learn the concept of algorithm design.<br>Students will be taught introductory programming concepts.<br>Students will learn how to express algorithm designs in pseudo-code.<br>Students will be paired up to learn how to program images, animations, and interactions.<br>Students will be taught fundamentals of computer programming with a visual context.<br>Students will be inspired from Computer Scientists: Invited speakers from UMass Lowell, Google K-12 Education Outreach Team, etc.<br>Students will attend a algorithm design contest, using the methods, algorithms and pseudo-code rules they learned in the morning<br>Students will be paired up for a programming contest, using the animation programming skills they have learned in the morning sessions.",
+        "eventdate": "July 28, 2011",
+        "eventpicture": "Tech Savvy Computing Camp.jpg"
     },{
         "eventname": "Mathematics Colloquium: “How to construct topological invariants via decompositions and the symplectic category.” By Katrin Wehrheim",
-        "eventdescription": "The goal of the talk will be to explain most words in the following abstract: A Lagrangian correspondence is a Lagrangian submanifold in the product of two symplectic manifolds. This generalizes the notion of a symplectomorphism and was introduced by Weinstein in an attempt to build a symplectic category that has morphisms between any pair of symplectic manifolds (not just symplectomorphic pairs). In joint work with Chris Woodward we define such a cateory, in which all (generalized) Lagrangian correspondences are composable morphisms. We extend it to a 2-category by extending Floer homology to generalized Lagrangian correspondences. This is based on counts of ’holomorphic quilts’ - a collection of holomorphic curves in different manifolds with ’seam values’ in the Lagrangian correspondences. A fundamental isomorphism of Floer homologies ensures that our constructions are compatible with the geometric composition of Lagrangian correspondences. This provides a general prescription for constructing topological invariants. We consider e.g. 3-manifolds or links as morphisms (cobordisms or tangles) in a topological category. In order to obtain a topological invariant from our generalized Floer homology, it suffices to - decompose morphisms into simple morphisms (e.g. by cutting between critical levels of a Morse function) - associate to the objects and simple morphisms smooth symplectic manifolds and Lagrangian correspondences between them (e.g. using moduli spaces of bundles or representations) - check that the moves between different decompositions are associated to (good) geometric composition of Lagrangian correspondences."
-        ,"eventpicture": "UMass Boston Logo.png"
+        "eventdescription": "The goal of the talk will be to explain most words in the following abstract: A Lagrangian correspondence is a Lagrangian submanifold in the product of two symplectic manifolds. This generalizes the notion of a symplectomorphism and was introduced by Weinstein in an attempt to build a symplectic category that has morphisms between any pair of symplectic manifolds (not just symplectomorphic pairs). In joint work with Chris Woodward we define such a cateory, in which all (generalized) Lagrangian correspondences are composable morphisms. We extend it to a 2-category by extending Floer homology to generalized Lagrangian correspondences. This is based on counts of ’holomorphic quilts’ - a collection of holomorphic curves in different manifolds with ’seam values’ in the Lagrangian correspondences. A fundamental isomorphism of Floer homologies ensures that our constructions are compatible with the geometric composition of Lagrangian correspondences. This provides a general prescription for constructing topological invariants. We consider e.g. 3-manifolds or links as morphisms (cobordisms or tangles) in a topological category. In order to obtain a topological invariant from our generalized Floer homology, it suffices to - decompose morphisms into simple morphisms (e.g. by cutting between critical levels of a Morse function) - associate to the objects and simple morphisms smooth symplectic manifolds and Lagrangian correspondences between them (e.g. using moduli spaces of bundles or representations) - check that the moves between different decompositions are associated to (good) geometric composition of Lagrangian correspondences.",
+        "eventdate": "February 9, 2011",
+        "eventpicture": "UMass Boston Logo.png"
     },{
         "eventname": "BATEC Tech Futures Forum",
-        "eventdescription": "Join your fellow educators from across the state as you discover new and innovative ways to improve IT education and workforce development. This one-day event features a variety of industry speakers from various career areas sharing the impacts, challenges, growth and demands of technology in their businesses through keynotes, panels and hands-on workshops. Throughout the day, you will participate in presentations and workshops that highlight the regional IT landscape, including projected job opportunities as well as the relevant information technologies and services that are driving our local industries. Come be a part of this professional development opportunity!"
-        ,"eventpicture": "BATEC.png"
+        "eventdescription": "Join your fellow educators from across the state as you discover new and innovative ways to improve IT education and workforce development. This one-day event features a variety of industry speakers from various career areas sharing the impacts, challenges, growth and demands of technology in their businesses through keynotes, panels and hands-on workshops. Throughout the day, you will participate in presentations and workshops that highlight the regional IT landscape, including projected job opportunities as well as the relevant information technologies and services that are driving our local industries. Come be a part of this professional development opportunity!",
+        "eventdate": "May 11, 2010",
+        "eventpicture": "BATEC.png"
+    },{
+        "eventname": "Spring Gathering",
+        "eventdescription": "Women’s Environmental Network<br>Thursday, May 6, 2010<br>5:30 to 8:00 evening hours<br>At: Ileen Gladstone’s House<br>33 Commercial Wharf, Boston (Waterfront)",
+        "eventdate": "May 6, 2010",
+        "eventpicture": "spring gathering.png"
     },{
         "eventname": "Women's Networking: New Knowledge. New Perspectives. New Directions.",
-        "eventdescription": "Talk: Challenges in the Practical Application of Machine by Prof. Carla Brodley and Prof. Yanlei Diao and panel discussion."
-        ,"eventpicture": "Women's Networking.png"
+        "eventdescription": "Talk: Challenges in the Practical Application of Machine by Prof. Carla Brodley and Prof. Yanlei Diao and panel discussion.",
+        "eventdate": "April 6, 2010",
+        "eventpicture": "2010_04_05_WIS-Week.jpg"
     }
 ]
