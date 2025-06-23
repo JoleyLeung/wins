@@ -6,8 +6,10 @@ import crown from "../assets/crown.png";
 import divider from "../assets/divider2.png";
 import instagram from "../assets/InstagramPurple.png";
 import youtube from "../assets/YoutubePurple.png";
-import instagramclicked from "../assets/InstagramPClicked.png";
+import instagramclicked from "../assets/InstagramClicked.png";
 import youtubeclicked from "../assets/YoutubeClicked.png";
+import googlegroups from "../assets/GoogleGroupsPurple.png";
+import googlegroupsclicked from "../assets/GoogleGroupsClicked.png";
 import EventCarousel from "./EventCarousel";
 import { useNavigate } from "react-router-dom";
 
@@ -16,6 +18,9 @@ const Home = () => {
 
   const goToAboutUs = () => {
     navigate("/aboutus");
+  };
+  const goToEvents = () => {
+    navigate("/events");
   };
 
   return (
@@ -38,25 +43,59 @@ const Home = () => {
       <br></br>
       <div className="bothsocials">
         <div className="imageBox">
-          <div className="youtube imageInn">
-            <a href="https://www.youtube.com/@womeninscienceclubatumassb2697">
-              <img src={youtube} alt="youtube" className="socials unclicked" />
+          <div className=" imageInn">
+            <a
+              target="_blank"
+              href="https://www.youtube.com/@womeninscienceclubatumassb2697"
+            >
+              <img src={youtube} alt="Youtube" className="socials unclicked" />
             </a>
           </div>
           <div className="hoverImg">
-            <a href="https://www.youtube.com/@womeninscienceclubatumassb2697">
+            <a
+              target="_blank"
+              href="https://www.youtube.com/@womeninscienceclubatumassb2697"
+            >
               <img
                 src={youtubeclicked}
-                alt="youtube"
+                alt="Youtube"
                 className="socials clicked"
               />
             </a>
           </div>
         </div>
-
-        <a href="https://www.instagram.com/umbwins/">
-          <img src={instagram} alt="instagram" className="socials" />
-        </a>
+        <div className="imageBox">
+          <div className="imageInn">
+            <a target="_blank" href="https://groups.google.com/u/4/g/wis_umb">
+              <img src={googlegroups} alt="Google Groups" className="socials" />
+            </a>
+          </div>
+          <div className="hoverImg">
+            <a target="_blank" href="https://groups.google.com/u/4/g/wis_umb">
+              <img
+                src={googlegroupsclicked}
+                alt="Google Groups"
+                className="socials clicked"
+              />
+            </a>
+          </div>
+        </div>
+        <div className="imageBox">
+          <div className="imageInn">
+            <a target="_blank" href="https://www.instagram.com/umbwins/">
+              <img src={instagram} alt="Instagram" className="socials" />
+            </a>
+          </div>
+          <div className="hoverImg">
+            <a target="_blank" href="https://www.instagram.com/umbwins/">
+              <img
+                src={instagramclicked}
+                alt="Instagram"
+                className="socials clicked"
+              />
+            </a>
+          </div>
+        </div>
       </div>
 
       <br></br>
@@ -92,18 +131,47 @@ const Home = () => {
             className="purposeimg"
           />
         </div>
-        <div></div>
       </div>
-
-      <div className="dividerdiv">
+      <br></br>
+      <div className="dividerdiv overlap">
         <img src={divider} alt="page divider" className="divider" />
       </div>
-      <div className="aligncenter">
-        <span className="smolheader">Events We Held</span>
+      <br></br>
+      <div className="aligncenter overlap">
+        <span className="mediumheader">Events We Held</span>
       </div>
-      <div>
-        <EventCarousel />
+      <br></br>
+      <section className=" hero--diagonal">
+        <div className=" blue-bg">
+          <div>
+            <div>
+              <br></br>
+              <br></br>
+              <br></br>
+              <br></br>
+              <br></br>
+              <br></br>
+              <br></br>
+              <EventCarousel />
+              <br></br>
+              <br></br>
+              <br></br>
+              <br></br>
+              <br></br>
+              <br></br>
+              // ಥ_ಥ brrrrrr
+            </div>
+          </div>
+        </div>
+      </section>
+      <div className="aligncenter overlap">
+        <button className="button moreevents" onClick={goToEvents}>
+          MORE EVENTS
+        </button>
       </div>
+      <br></br>
+      <br></br>
+      <br></br>
     </div>
   );
 };

@@ -64,7 +64,9 @@ function AboutUs() {
             and family environments are less likely to pursue a scientific
             career to begin with.
           </div>
-          <a href="src\assets\WINSConstitution.pdf">WINS Constitution</a>
+          <a target="_blank" href="src\assets\WINSConstitution.pdf">
+            WINS Constitution
+          </a>
         </span>
       </div>
       <br></br>

@@ -1,6 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import "../styles/Header.css";
+import WINSlogo from "../assets/WINSlogo.jpg";
+import UMBlogo from "../assets/UMass Boston Logo.png";
 
 const Header = () => {
   // please turn the links into an array :)
@@ -13,18 +15,28 @@ const Header = () => {
   ];
 
   return (
-    <header>
-      <nav className="navbar">
-        <ul className="navbar-links">
-          {/* Mapping through navLinks to generate <li> and <Link> elements */}
-          {navLinks.map((link, index) => (
-            <li key={index}>
-              <Link to={link.path}>{link.name}</Link>
-            </li>
-          ))}
-        </ul>
-      </nav>
-    </header>
+    <div className="header lightblue-bg">
+      <header>
+        <div className="bigbar">
+          <div>
+            <a href="home">
+              <img src={UMBlogo} alt="UMBB logo" className="logos" />
+              <img src={WINSlogo} alt="WINS logo" className="logos" />
+            </a>
+          </div>
+          <nav className="navbar">
+            <ul className="navbar-links">
+              {/* Mapping through navLinks to generate <li> and <Link> elements */}
+              {navLinks.map((link, index) => (
+                <li key={index}>
+                  <Link to={link.path}>{link.name}</Link>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        </div>
+      </header>
+    </div>
   );
 };
 

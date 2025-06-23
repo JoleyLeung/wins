@@ -10,7 +10,7 @@ function Events() {
       <div className="aligncenter mediumheader">
         <span>See Our Past Events!</span>{" "}
       </div>
-      <br></br>
+
       <br></br>
       {EventsImages.map((event, index) => (
         <div className="line">
@@ -20,6 +20,7 @@ function Events() {
             </div>
             <div>
               <div className=" smolheader "> {event.eventname}</div>
+              <div className=" date "> {event.eventdate}</div>
               <div
                 className="text"
                 dangerouslySetInnerHTML={{ __html: event.eventdescription }}

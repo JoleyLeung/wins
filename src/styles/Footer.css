@@ -1,6 +1,6 @@
 .no-gutters {
-    margin-right: 0;
-    margin-left: 0;
+    margin-right: 0.5em;
+    margin-left: 0.5em;
   
     > .col,
     > [class*="col-"] {
@@ -9,6 +9,17 @@
     }
   }
 
+
   .footer {
-    border-top:thin solid #E8E7EA;
+   /*   border-top:thin solid #E8E7EA;*/
+      padding: 1em 0;
+  }
+
+
+  .credittext{
+    font-family: "Inter", sans-serif;
+    font-size: 1.5em;
+    font-size: calc(25% + 0.75vw);
+    margin-left: 0.5em;
+    margin-right: 0.5em;
   }

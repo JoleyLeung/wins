@@ -18,3 +18,8 @@
   .line {
     border-top:thin solid #E8E7EA;
   }
+  .date{
+    font-family: "Inter", sans-serif;
+    font-size: 1.5em;
+    color: gray;
+  }

@@ -5,9 +5,9 @@
     font-size: 3em;
   }
   .mediumheader{
-    font-weight: 700;
+    font-weight: 650;
     font-family: "Inter", sans-serif;
-    font-size: 4em;
+    font-size: 3.5em;
     line-height: 1.1em;
   }
   .bigheader {
@@ -20,7 +20,7 @@
 
   .text{
     font-family: "Inter", sans-serif;
-  font-size: 1.5em;
+    font-size: 1.5em;
   }
   .marginleft{
     margin-left:3em;
@@ -28,9 +28,22 @@
   .marginright{
     margin-right:3em;
   }
+    .smolmarginleft{
+    margin-left:1em;
+  }
+  .smolmarginright{
+    margin-right:1em;
+  }
   .aligncenter{
     text-align: center;
   }
+      .lightblue-bg {
+    background-color: #f0fdff;
+  }
+ .overlap {
+  position: relative;
+  z-index: 2;
+}
   .button{
     border: none;
     background-color: white;
@@ -62,6 +75,7 @@
     height: 100%;
   }
 
-  .purple-bg {
-    background-color: #9747FF;
+  .blue-bg {
+     background-color:#a4dbff;
   }
+

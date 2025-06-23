@@ -1,38 +1,43 @@
 import React from "react";
 import "../styles/Footer.css";
 import WINSlogo from "../assets/WINSlogo.jpg";
+import footersparks from "../assets/footersparks.png";
 
 const Footer = () => {
   return (
-    <div className="container-fluid footer">
+    <div className="container-fluid footer lightblue-bg overlap">
       <div className="row no-gutters">
-        <div className="col d-flex align-items-center col-md-auto">
-          <img src={WINSlogo} width={50} height={50} alt="WINS logo" />
-        </div>
-        <div
-          className="col d-flex align-items-center"
-          style={{ height: "75px" }}
-        >
-          <span className="text-start">Women In Science</span>
+        <div className="col d-flex align-items-center">
+          <span className="text-start credittext">Women In Science</span>
         </div>
         <div
           className="col justify-content-end d-flex align-items-center"
-          style={{ height: "75px" }}
+          style={{ whiteSpace: "nowrap" }}
         >
-          <span className="text-end">
-            Email: <a href="mailto:wei.ding@umb.edu">wei.ding@umb.edu</a>
+          <span className="text-end credittext">
+            Email:{" "}
+            <a target="_blank" href="mailto:wei.ding@umb.edu">
+              wei.ding@umb.edu
+            </a>
             <br />
             Phone: 617-287-6428
+            <br></br>
+            Website adapted from{" "}
+            <a
+              target="_blank"
+              href="https://www.figma.com/community/file/1337059051646144807"
+            >
+              a template by Harsh Bhattad
+            </a>{" "}
+            - Licensed under{" "}
+            <a
+              target="_blank"
+              href="https://creativecommons.org/licenses/by/4.0/"
+            >
+              CC BY 4.0
+            </a>
           </span>
         </div>
-      </div>
-      <div className="text-end">
-        Website adapted from{" "}
-        <a href="https://www.figma.com/community/file/1337059051646144807">
-          a template by Harsh Bhattad
-        </a>{" "}
-        - Licensed under{" "}
-        <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
       </div>
     </div>
   );

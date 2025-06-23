@@ -32,13 +32,11 @@ function EventCarousel() {
         {EventsImages.map((event, index) => (
           <div
             className={`carousel-item ${
-              index === 0
-                ? "active purple-bg text-white"
-                : "purple-bg text-white"
+              index === 0 ? "active text-black" : " text-black"
             }`}
             key={index}
           >
-            <div className="text-center">
+            <div className="text-center smolheader smolmarginleft smolmarginright">
               <h3>{event.eventname}</h3>
             </div>
             <div className="text-center">

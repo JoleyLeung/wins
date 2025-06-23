@@ -6,6 +6,7 @@
     float: right; align to right 
 } */
  .navbar-links {
+
     list-style-type: none;
     display: flex;
     padding: 5px 20px;
@@ -18,15 +19,24 @@
     display: flex; /* Use flexbox for alignment */
     justify-content: flex-end; /* Align the content to the right */
   }
+  .bigbar{
+    display: flex;
   
+     justify-content: space-between;
+  }
   .navbar-links li {
     margin: 0;
   }
-  
+  .logos{
+   height: 3.353125em;
+
+  }
+
   .navbar-links a {
     color: black;
     text-decoration: none;
-    font-size: 1rem;
+    font-size:calc(30% + 0.75vw);
+     font-family: "Inter", sans-serif;
   }
   
   .navbar-links a:hover {

@@ -24,23 +24,20 @@
       left: 0;
       top: 0;
       display: none;
+    transition-duration: 0.5s;
     }
 
     .imageBox:hover .hoverImg {
       display: block;
+         transition-duration: 0.5s;
+     
     }
     .imageBox:hover .imageInn {
       display: block;
       opacity:0;
+         transition-duration: 0.5s;
     }
 
-  
-.youtube{
-
-}
-.instagram{
-
-}
 .bothsocials{
    display: flex;
   justify-content: center;
@@ -79,5 +76,31 @@
 .learnmore{
  margin-left: 3em;
 }
+.moreevents{
+ border: none;
+    background-color: transparent;
+    color: #9747FF;
+    border: 2px solid #9747FF;
+    border-radius:2em;
+    padding: 1em 2em;
+    text-align: center;
+    display: inline-block;
+    font-family: "Inter", sans-serif;
+    font-size: 1em;
+    transition-duration: 0.4s;
+}
 
 
+ 
+  .hero--diagonal {
+  clip-path: polygon(0% 0%, 100% 20%, 100% 100%, 0% 80%)
+  }
+ 
+
+.hero--diagonal {
+  position: relative;
+   margin-top: -150px;
+   margin-bottom: -150px;
+  z-index: 1;
+}
+  
