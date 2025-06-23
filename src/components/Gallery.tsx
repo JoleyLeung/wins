@@ -22,9 +22,9 @@ const Gallery: React.FC = () => {
         <span className="bigheader">Gallery</span>
       </div>
       <div className="gallery-container">
-        {images.map((image) => (
+        {galleryImages.map((image, index) => (
           <div key={image.picname} className="image-container">
-            <img src={image.pic} alt={image.picname} />
+            <img src={`/gallery_images/${image.pic}`} alt={image.picname} />
           </div>
         ))}
       </div>
