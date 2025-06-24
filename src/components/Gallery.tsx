@@ -24,7 +24,9 @@ function Gallery() {
       </div>
       <div className="gallery-container">
         {galleryImages.map((image, index) => (
-          <div key={image.picname} className="image-container"></div>
+          <div key={image.picname} className="image-container">
+            <img src={`gallery_images/${image.pic}`} alt={image.picname} />
+          </div>
         ))}
       </div>
     </div>
