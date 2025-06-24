@@ -35,7 +35,7 @@ function JoinUs() {
       </div>
       <br></br>
 
-      <ol className="smolheader list">
+      <ol className=" list">
         <li>
           Go to our{" "}
           <a target="_blank" href="https://groups.google.com/u/4/g/wis_umb">

@@ -19,8 +19,8 @@ const Gallery: React.FC = () => {
 function Gallery() {
   return (
     <div>
-      <div className="d-flex justify-content-center">
-        <span className="bigheader">✨Gallery✨</span>
+      <div className="d-flex justify-content-center gallerytitle">
+        <span className="mediumheader">✨Gallery✨</span>
       </div>
       <div className="gallery-container">
         {galleryImages.map((image, index) => (

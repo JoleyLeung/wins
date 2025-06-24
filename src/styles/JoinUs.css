@@ -11,4 +11,7 @@
   .list{
     margin-left: 12vw;
     margin-right: 12vw;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    font-size: calc(65% + 2vw);
   }
