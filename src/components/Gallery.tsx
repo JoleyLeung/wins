@@ -3,6 +3,7 @@ import "../styles/Gallery.css";
 import "../App.css";
 import galleryImages from "../../public/gallery_images/Gallery.json";
 
+/*
 type Image = {
   picname: string;
   pic: string;
@@ -14,8 +15,8 @@ const Gallery: React.FC = () => {
   // useEffect to set the images when the component mounts
   useEffect(() => {
     setImages(galleryImages);
-  }, []);
-
+  }, []); */
+function Gallery() {
   return (
     <div>
       <div className="d-flex justify-content-center">
@@ -30,6 +31,6 @@ const Gallery: React.FC = () => {
       </div>
     </div>
   );
-};
+}
 
 export default Gallery;
