@@ -43,7 +43,6 @@ function EventCarousel() {
               <img
                 height="400px"
                 src={`event_album/${event.eventpicture}`}
-                className="xd-block"
                 alt={`Slide ${index + 1}`}
               />
             </div>

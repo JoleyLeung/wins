@@ -105,7 +105,7 @@ const Home = () => {
           <div className="marginleft purposetext">
             <span className="mediumheader">Our Purpose is...</span>
           </div>
-          <ul className="text marginright marginleft">
+          <ul className="text purposelist">
             <li>
               To unite women working in, studying and interested in
               science-related disciplines.

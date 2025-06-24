@@ -1,26 +1,40 @@
 [
     {
-        "picname": "She Speaks",
-        "pic": "image1.png"
+        "picname": "Tech-savvy computing camp",
+        "pic": "2010_07_Tech-Savvy_Computing_Camp_IMGP1857_s.jpg"
     },
     {
-        "picname": "Movie Night",
-        "pic": "image2.png"
+        "picname": "Tech-savvy computing camp",
+        "pic": "2010_07_Tech-Savvy_Computing_Camp_IMGP1871_s.jpg"
     },
     {
-        "picname": "Purple Duck",
+        "picname": "Tech-savvy computing camp",
+        "pic": "2010_07_Tech-Savvy_Computing_Camp_IMGP1888_s.jpg"
+    },
+    {
+        "picname": "Tech-savvy computing camp",
+        "pic": "2010_07_Tech-Savvy_Computing_Camp_IMGP1891_s.jpg"
+    },
+    {
+        "picname": "Speedy mock interview workshop",
+        "pic": "2010_10_Speedy_Mock_Interview_workshop_IMGP1488.jpg"
+    },
+    {
+        "picname": "IBM trip: Anna Pinkert",
+        "pic": "2014_12_05_IBM-Trip_Anna_Pinkert.jpg"
+    }
+    ,
+    {
+        "picname": "IBM trip group",
+        "pic": "2014_12_05_IBM-Trip_Group.jpg"
+    }
+    ,
+    {
+        "picname": "Club founders",
+        "pic": "club_founders.jpg"
+    },
+    {
+        "picname": "Purple duck!",
         "pic": "Rectangle57.png"
-    },
-    {
-        "picname": "Purple Duck",
-        "pic": "imagecopy.png"
-    },
-    {
-        "picname": "Purple Duck",
-        "pic": "imagecopy.png"
-    },
-    {
-        "picname": "Dupe!",
-        "pic": "coppy.png"
     }
 ]

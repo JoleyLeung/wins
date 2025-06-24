@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import "../styles/Header.css";
 import WINSlogo from "../assets/WINSlogo.jpg";
 import UMBlogo from "../assets/UMass Boston Logo.png";
+import blueumblogo from "../assets/blueumblogo.png";
 
 const Header = () => {
   // please turn the links into an array :)
@@ -20,7 +21,7 @@ const Header = () => {
         <div className="bigbar">
           <div>
             <a href="home">
-              <img src={UMBlogo} alt="UMBB logo" className="logos" />
+              <img src={blueumblogo} alt="UMB logo" className="logos" />
               <img src={WINSlogo} alt="WINS logo" className="logos" />
             </a>
           </div>

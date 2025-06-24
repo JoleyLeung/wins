@@ -2,6 +2,7 @@ import React from "react";
 import "../styles/JoinUs.css";
 import "../App.css";
 import divider from "../assets/divider2.png";
+import bluedivider from "../assets/Border (1).png";
 
 function JoinUs() {
   return (
@@ -22,17 +23,27 @@ function JoinUs() {
         </span>
       </div>
       <br></br>
-      <div className="dividerdiv">
-        <img src={divider} alt="page divider" className="divider" />
+      <br></br>
+
+      <div className="dividerdiv bluedivider">
+        <img src={bluedivider} alt="page divider" className="divider" />
       </div>
+      <br></br>
+      <br></br>
       <div className="aligncenter">
         <span className="mediumheader">How To Join:</span>
       </div>
       <br></br>
-      <ol className="smolheader marginleft">
-        <li>go to some link</li>
-        <li>press a button or something</li>
-        <li>i actually have no idea ಥ_ಥ</li>
+
+      <ol className="smolheader list">
+        <li>
+          Go to our{" "}
+          <a target="_blank" href="https://groups.google.com/u/4/g/wis_umb">
+            Google Group
+          </a>
+        </li>
+        <li>Press the "Join Group" button</li>
+        <li>Welcome to our club! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</li>
       </ol>
     </div>
   );

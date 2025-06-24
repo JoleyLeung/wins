@@ -1,4 +1,14 @@
 .jointext{
-    margin-left: 6em;
-    margin-right: 6em;
+    margin-left: 6vw;
+    margin-right: 6vw;
+  }
+
+  .bluedivider{
+    padding-inline: calc(20% - 2vw);
+    
+  }
+
+  .list{
+    margin-left: 12vw;
+    margin-right: 12vw;
   }

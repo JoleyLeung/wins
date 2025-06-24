@@ -20,7 +20,7 @@ function Gallery() {
   return (
     <div>
       <div className="d-flex justify-content-center">
-        <span className="bigheader">Gallery</span>
+        <span className="bigheader">✨Gallery✨</span>
       </div>
       <div className="gallery-container">
         {galleryImages.map((image, index) => (
