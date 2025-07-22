@@ -34,17 +34,17 @@ function JoinUs() {
         <span className="mediumheader">How To Join:</span>
       </div>
       <br></br>
-
-      <ol className=" list">
-        <li>
-          Go to our{" "}
-          <a target="_blank" href="https://groups.google.com/u/4/g/wis_umb">
-            Google Group
-          </a>
-        </li>
-        <li>Press the "Join Group" button</li>
-        <li>Welcome to our club! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</li>
-      </ol>
+      <div className="list">
+        <span>
+          Please contact{" "}
+          <a target="_blank" href="mailto:wei.ding@umb.edu">
+            wei.ding@umb.edu
+          </a>{" "}
+          to join the club! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+        </span>
+      </div>
+      <br></br>
+      <br></br>
     </div>
   );
 }

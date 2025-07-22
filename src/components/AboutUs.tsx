@@ -3,6 +3,8 @@ import "../styles/AboutUs.css";
 import "../App.css";
 import { useNavigate } from "react-router-dom";
 import WINSGroupPhoto from "../assets/WINSGroupPhoto.jpg";
+import WeiDing from "../assets/weiDing_prof.jpg";
+import bluedivider from "../assets/Border (1).png";
 
 function AboutUs() {
   const navigate = useNavigate();
@@ -78,14 +80,46 @@ function AboutUs() {
         </span>
       </div>
       <br></br>
-      <div className="aligncenter">
-        <button className="button " onClick={goToJoinUs}>
-          JOIN US
-        </button>
+      <br></br>
+
+      <div className="dividerdiv bluedivider">
+        <img src={bluedivider} alt="page divider" className="divider" />
       </div>
       <br></br>
+      <br></br>
+
       <div className="aligncenter">
-        <span className="bigheader">Meet the Team!</span>
+        <span className="bigheader">Meet Our Founder!</span>
+      </div>
+
+      <div className="flex-container">
+        <div className="weiding">
+          <span className="text">
+            <div>
+              <p>
+                Wei Ding, a distinguished professor of computer science, founded
+                the Women in Science Club at UMass Boston in 2010 while serving
+                as an assistant professor. She also represents UMass Boston at
+                the National Center for Women and Information Technology.
+                <br></br>
+                <a
+                  target="_blank"
+                  href="https://www.umb.edu/media/umassboston/content-assets/cosmic/about/RISC_Quarterly_Newsletter--Special_Issue_on_STEM.pdf"
+                >
+                  {" "}
+                  Women in Science Club, RISC quarterly, AY 2020-2011
+                </a>
+              </p>
+            </div>
+          </span>
+        </div>
+        <div className="weiding">
+          <img
+            src={WeiDing}
+            alt="Portrait of Wei Ding"
+            className="purposeimg"
+          />
+        </div>
       </div>
     </div>
   );
