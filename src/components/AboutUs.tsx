@@ -4,6 +4,7 @@ import "../App.css";
 import { useNavigate } from "react-router-dom";
 import WINSGroupPhoto from "../assets/WINSGroupPhoto.jpg";
 import WeiDing from "../assets/weiDing_prof.jpg";
+import constitution from "../assets/WINSConstitution.pdf";
 import bluedivider from "../assets/Border (1).png";
 
 function AboutUs() {
@@ -74,7 +75,7 @@ function AboutUs() {
               pursue a scientific career to begin with.
             </p>
           </div>
-          <a target="_blank" href="src\assets\WINSConstitution.pdf">
+          <a target="_blank" href={constitution}>
             WINS Constitution
           </a>
         </span>
@@ -102,12 +103,14 @@ function AboutUs() {
                 as an assistant professor. She also represents UMass Boston at
                 the National Center for Women and Information Technology.
                 <br></br>
+              </p>
+              <p>
                 <a
                   target="_blank"
                   href="https://www.umb.edu/media/umassboston/content-assets/cosmic/about/RISC_Quarterly_Newsletter--Special_Issue_on_STEM.pdf"
                 >
                   {" "}
-                  Women in Science Club, RISC quarterly, AY 2020-2011
+                  RISC Quarterly
                 </a>
               </p>
             </div>
